@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/XuTGYeK.png" alt="Protect Bot Logo" width="200"/>
+  <img src="https://imgur.com/a/C9Z0Mo0" alt="Protect Bot Logo" width="200"/>
   <h1>🛡️ Protect Bot</h1>
   <p>Un bot Discord puissant pour protéger votre serveur contre les raids et diverses attaques</p>
   
