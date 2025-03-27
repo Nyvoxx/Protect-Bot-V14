@@ -44,15 +44,6 @@
 - **⚙️ Configuration Intuitive**: Facile à configurer via des commandes dédiées
 - **🌐 Multi-serveurs**: Gestion de la protection sur plusieurs serveurs
 
-## 📸 Captures d'écran
-
-<div align="center">
-  <img src="https://i.imgur.com/bFgRm6U.png" alt="Capture d'écran 1" width="400"/>
-  <img src="https://i.imgur.com/mJ3nMNi.png" alt="Capture d'écran 2" width="400"/>
-  <img src="https://i.imgur.com/lZosBf0.png" alt="Capture d'écran 3" width="400"/>
-  <img src="https://i.imgur.com/WOwXair.png" alt="Capture d'écran 4" width="400"/>
-</div>
-
 ## 🚀 Déploiement Rapide
 
 [![Deploy to Replit](https://replit.com/badge/github/Nekros-dsc/Protect-Bot)](https://replit.com/github/Nekros-dsc/Protect-Bot)
