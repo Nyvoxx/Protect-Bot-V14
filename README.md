@@ -130,7 +130,7 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Ne
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8L4rPN3.png" alt="Protect Bot Footer" width="100"/>
+  <img src="https://imgur.com/a/C9Z0Mo0" alt="Protect Bot Footer" width="100"/>
   <p>Fait avec ❤️ par <a href="https://github.com/Nekros-dsc">Nekros-dsc</a></p>
   <p>© 2025 Protect Bot - Tous droits réservés</p>
 </div>
