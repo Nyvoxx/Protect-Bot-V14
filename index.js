@@ -26,14 +26,12 @@ client.database = new QuickDB();
 client.config = require('./config.json');
 client.commands = new Collection();
 client.aliases = new Collection();
-client.logs = logs;
-client.header = header;
 
 const loadCommands = (dir = "./cmd/") => {
 	try {
 		const folders = readdirSync(dir);
 		for (const folder of folders) {
-			const commandPath = path.join(dir, folder);
+			const commandPath = path.join(process.cwd(), dir, folder);
 			const commandFiles = readdirSync(commandPath).filter(file => file.endsWith(".js"));
 			
 			for (const file of commandFiles) {
@@ -58,7 +56,7 @@ const loadEvents = (dir = "./events/") => {
 	try {
 		const folders = readdirSync(dir);
 		for (const folder of folders) {
-			const eventPath = path.join(dir, folder);
+			const eventPath = path.join(process.cwd(), dir, folder);
 			const eventFiles = readdirSync(eventPath).filter(file => file.endsWith(".js"));
 			
 			for (const file of eventFiles) {
