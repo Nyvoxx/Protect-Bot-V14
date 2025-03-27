@@ -1,12 +1,3 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <div style="flex: 1;">
-      <img src="https://i.imgur.com/XuTGYeK.png" alt="Protect Bot Logo" width="200"/>
-    </div>
-    <div style="flex: 1;">
-      <img src="https://i.imgur.com/C9Z0Mo0.png" alt="Protect Bot Image" width="200"/>
-    </div>
-  </div>
   <h1>🛡️ Protect Bot</h1>
   <p>Un bot Discord puissant pour protéger votre serveur contre les raids et diverses attaques</p>
   
@@ -146,7 +137,6 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Ne
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/8L4rPN3.png" alt="Protect Bot Footer" width="100"/>
   <p>Fait avec ❤️ par <a href="https://github.com/Nekros-dsc">Nekros-dsc</a></p>
   <p>© 2025 Protect Bot - Tous droits réservés</p>
 </div>
