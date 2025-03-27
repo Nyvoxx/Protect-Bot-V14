@@ -8,10 +8,8 @@ module.exports = {
     aliases: ["invite", "botinvite", "add"],
     go: async (client, message, args, prefix, color) => {
         
-        // Génération du lien d'invitation
         const inviteLink = `https://discord.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands`;
         
-        // Création de l'embed
         const embed = new EmbedBuilder()
             .setTitle(`Inviter ${client.user.username}`)
             .setDescription(`Merci de vouloir inviter ${client.user.username} sur votre serveur ! Utilisez le lien ci-dessous pour ajouter le bot à votre serveur.`)
