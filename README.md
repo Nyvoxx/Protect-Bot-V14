@@ -17,7 +17,6 @@
 - [⚙️ Configuration](#️-configuration)
 - [📚 Commandes](#-commandes)
 - [🔒 Sécurité](#-sécurité)
-- [📊 Statistiques](#-statistiques)
 - [👥 Contribution](#-contribution)
 - [📞 Support](#-support)
 - [🏆 Crédits](#-crédits)
@@ -54,7 +53,7 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Nyvoxx/Protect-Bot-V14
+git clone https://github.com/Nekros-dsc/Protect-Bot.git
 
 # Accéder au dossier
 cd Protect-Bot
@@ -121,9 +120,11 @@ Besoin d'aide? Rejoignez notre [serveur Discord](https://discord.gg/zM6ZN9UfRs) 
 
 Ce projet est basé sur [Protect-Bot](https://github.com/Nekros-dsc/Protect-Bot) créé par [Nekros-dsc](https://github.com/Nekros-dsc).
 
+Version améliorée disponible chez [Nyvoxx/Protect-Bot-V14](https://github.com/Nyvoxx/Protect-Bot-V14).
+
 ## 📜 Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Nyvoxx/Protect-Bot-V14/blob/main/LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Nekros-dsc/Protect-Bot/blob/main/LICENSE) pour plus de détails.
 
 ---
 
