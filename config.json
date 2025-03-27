@@ -1,7 +1,7 @@
 {
     "token": "TOKEN",
     "prefix": "PREFIX",
-    "color": "PURPLE",
+    "color": "#2c2f33",
     "owner": [
         "ID OWNER"
     ]
