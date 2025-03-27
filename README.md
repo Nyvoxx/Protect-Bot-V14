@@ -54,7 +54,7 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Nekros-dsc/Protect-Bot.git
+git clone https://github.com/Nyvoxx/Protect-Bot-V14
 
 # Accéder au dossier
 cd Protect-Bot
@@ -123,7 +123,7 @@ Ce projet est basé sur [Protect-Bot](https://github.com/Nekros-dsc/Protect-Bot)
 
 ## 📜 Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Nekros-dsc/Protect-Bot/blob/main/LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/Nyvoxx/Protect-Bot-V14/blob/main/LICENSE) pour plus de détails.
 
 ---
 
