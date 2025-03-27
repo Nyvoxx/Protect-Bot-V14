@@ -19,7 +19,6 @@
 - [⚙️ Configuration](#️-configuration)
 - [📚 Commandes](#-commandes)
 - [🔒 Sécurité](#-sécurité)
-- [📊 Statistiques](#-statistiques)
 - [👥 Contribution](#-contribution)
 - [📞 Support](#-support)
 - [🏆 Crédits](#-crédits)
