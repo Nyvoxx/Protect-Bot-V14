@@ -53,7 +53,7 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/Nekros-dsc/Protect-Bot.git
+git clone https://github.com/Nyvoxx/Protect-Bot-V14
 
 # Accéder au dossier
 cd Protect-Bot
